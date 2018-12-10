@@ -3,7 +3,7 @@ name: Stephen Valenta
 bio: Product Manager. Stanford MBA with CS skills.
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: My site
 
 # if it's an external image, update below for true
 # better with square images
@@ -48,7 +48,7 @@ github: stepvale
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-#medium: stephen_valenta
+medium: stephen_valenta
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 #email: myemail@gmail.com
@@ -77,7 +77,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-#projects: true
+projects: true
 
 # if you don't need "about" or "blog", comment them out below
 Autonomous Intersection Algorithm Demo: true
