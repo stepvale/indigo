@@ -16,10 +16,10 @@ resume: false
 resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: http://stephenvalenta.com
+url: https://s3-us-west-1.amazonaws.com/stephenvalenta.com
 # your url: http://stephenvalenta.com
 
-permalink: http://stephenvalenta.com
+permalink: https://s3-us-west-1.amazonaws.com/stephenvalenta.com
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
@@ -39,7 +39,7 @@ disqus:
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: in/stephenvalenta
+linkedin: stephenvalenta
 # youtube: myyoutube
 # spotify: myspotify
 github: stepvale
@@ -48,7 +48,7 @@ github: stepvale
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: stephen_valenta
+#medium: stephen_valenta
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 #email: myemail@gmail.com
@@ -77,10 +77,9 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+#projects: true
 
 # if you don't need "about" or "blog", comment them out below
-Autonomous Intersection Algorithm Demo: true
 #about: true
 #blog: true
 
